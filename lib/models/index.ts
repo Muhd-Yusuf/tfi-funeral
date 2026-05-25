@@ -1,0 +1,7 @@
+export { default as Plan } from './Plan'
+export { default as Testimonial } from './Testimonial'
+export { default as FAQ } from './FAQ'
+export { default as Contact } from './Contact'
+export { default as SiteContent } from './SiteContent'
+export { default as Admin } from './Admin'
+export { default as Quote } from './Quote'
